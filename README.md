@@ -1,0 +1,2 @@
+# SwiftTalkInJapanese
+Swiftについて日本語で話すgitterルーム用リポジトリ
